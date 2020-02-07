@@ -1,8 +1,8 @@
-# TiT FM - use Raspberry Pi as FM transmitter
+# TiT FM - Raspberry Pi as FM transmitter
 Copyright (c) 2020, Amos Ndeto
 All rights reserved.
 Just get an FM receiver, connect 20 - 40 cm plain wire to Raspberry Pi's GPIO4 (PIN 7 on GPIO header) to act as an antena, and You are ready for broadcasting.
-This project uses the general clock output to produce frequency modulated radio communication. It is based on idea originally presented by [Oliver Mattos and Oskar Weigl](http://icrobotics.co.uk/wiki/index.php/Turning_the_Raspberry_Pi_Into_an_FM_Transmitter) at [PiFM project](http://icrobotics.co.uk/wiki/index.php/Turning_the_Raspberry_Pi_Into_an_FM_Transmitter).
+This project uses the general clock output to produce frequency modulated radio communication. It is based on idea originally presented by [Oliver Mattos and Oskar Weigl](http://icrobotics.co.uk/wiki/index.php/Turning_the_Raspberry_Pi_Into_an_FM_Transmitter) at [PiFM project](http://icrobotics.co.uk/wiki/index.php/Turning_the_Raspberry_Pi_Into_an_FM_Transmitter). References have also been made from the original project by [Marcin Kondej](https://github.com/markondej/fm_transmitter). 
 ## How to use it
 To use this project You will have to build executable. First, clone this repository, then use "make" command as shown below:
 ```
