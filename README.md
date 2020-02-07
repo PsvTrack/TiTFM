@@ -12,11 +12,11 @@ make
 ``` 
 After successful build You can start transmitting by executing "tit_fm" program:
 ```
-sudo ./tit_fm -f 102.0 acoustic_guitar_duet.wav
+sudo ./tit_fm -f 102.0 test.wav
 ```
 Where:
 * -f frequency - Specifies the frequency in MHz, 100.0 by default if not passed
-* acoustic_guitar_duet.wav - Sample WAVE file, You can use your own
+* test.wav - Sample WAVE file, You can use your own
 
 Other options:
 * -d dma_channel - Specifies DMA channel to be used (0 by default), type 255 to disable DMA transfer, CPU will be used instead
