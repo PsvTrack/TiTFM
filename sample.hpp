@@ -1,10 +1,10 @@
 /*
-    fm_transmitter - use Raspberry Pi as FM transmitter
+    TiT FM - use Raspberry Pi as FM transmitter
 
-    Copyright (c) 2019, Marcin Kondej
+    Copyright (c) 2020, Amos Ndeto
     All rights reserved.
 
-    See https://github.com/markondej/fm_transmitter
+    See https://github.com/PsvTrack/TiTFM
 
     Redistribution and use in source and binary forms, with or without modification, are
     permitted provided that the following conditions are met:
