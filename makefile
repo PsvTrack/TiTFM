@@ -1,4 +1,4 @@
-EXECUTABLE = fm_transmitter
+EXECUTABLE = tit_fm
 VERSION = 0.9.3
 FLAGS = -Wall -O3 -std=c++11
 
